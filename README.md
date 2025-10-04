@@ -34,7 +34,7 @@ Tools used (e.g., ChatGPT) and their roles are detailed in the final report unde
 ## Project Structure
 
 ```
-heart-disease-ml-pipeline/
+uci-heart-disease-classification/
 │
 ├── data/                 # (optional) raw and cleaned datasets (or instructions to download)
 │

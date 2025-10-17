@@ -20,7 +20,6 @@ This project is an end-to-end machine learning pipeline to predict heart disease
 - `notebook/` — Jupyter Notebook with the full ML pipeline
 - `report/` — Final PDF report and visualizations
 - `data/` — (Optional) Contains instructions or scripts to download the dataset
-- `requirements.txt` — Dependencies
 
 ## 📈 Models Used
 
@@ -43,14 +42,8 @@ uci-heart-disease-classification/
 │
 ├── report/               # PDF and supporting figures
 │   ├── report.pdf
-│   └── figures/          # confusion matrix, ROC curve, etc.
+│   └── figures/          # or include figures in report
 │
 ├── README.md             # Project summary, setup, goals, usage
-├── requirements.txt      # Python dependencies
 ├── .gitignore            # Ignore dataset, checkpoints, etc.
-└── LICENSE               # (optional) license information
 ```
-
-## 📅 Timeline
-
-Project developed and updated daily between Sep 30 – Oct 6, 2025.

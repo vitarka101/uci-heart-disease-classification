@@ -46,4 +46,5 @@ uci-heart-disease-classification/
 │
 ├── README.md             # Project summary, setup, goals, usage
 ├── .gitignore            # Ignore dataset, checkpoints, etc.
+└── LICENSE               # (optional) license information
 ```
